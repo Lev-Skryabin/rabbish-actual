@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+.main--div{
+    background-image: url("images/image 41.png");
+    width: 60%;
+    margin-left: 20%;
+}
+header{
+    background-image: url("images/Group 2.png");
+    height: 233px;  
+}
+footer{
+    background-image: url("images/Rectangle 6.png");
+    height: 90px;
+}
+.down{
+    color: white;
+    font-size: 25px;
+    padding-left: 700px;
+    padding-top: 30px;
+}
+.header__main-nav{
+    margin-left: 48%;
+    display: flex;
+    justify-content: space-around;
+}
+.main-nav__a{
+    text-decoration: none;
+    color: white;
+    font-size: 32px;
+    padding-top: 11%;
+}
+.main--card{
+    background-image: url("images/image 32.png");
+}
+.div{
+    position: relative;
+    display: inline-block;
+    margin-left: 5%;
+}
+.test{
+    position: relative;
+    z-index: 2;
+}
+.div--spining{
+    position: absolute;
+    top:50px;
+    left:10px;
+    z-index: 1;
+    
+}
